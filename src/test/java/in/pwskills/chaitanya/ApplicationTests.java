@@ -1,4 +1,4 @@
-package in.pwskills.nitin;
+package in.pwskills.chaitanya;
 
 import static org.assertj.core.api.Assertions.fail;
 import static org.junit.jupiter.api.Assertions.assertEquals;
